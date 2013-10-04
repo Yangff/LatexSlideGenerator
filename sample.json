@@ -1,0 +1,66 @@
+{
+	"information" :
+	{
+		"title":"Slide Title",
+		"author":"Yangff",
+		"theme":"Warsaw",
+		"entry":"sample",
+		"usepackage":["amsmath"]
+	}
+	,
+
+	"document":{
+		"entry":"sample",
+		"content":[
+			{
+				"title":"第一章",
+				"entry":"topic1",
+				"content":[
+					{
+						"title":"第一节",
+						"entry":"section1",
+						"content":[
+							{"entry":"word1","title":"word1"},
+							{"entry":"word2","title":"word2"},
+							{"entry":"word3","title":"word3"}
+						]
+					}
+					,
+					{
+						"title":"第二节",
+						"entry":"section2",
+						"content":[
+							{"entry":"word1","title":"word1"},
+							{"entry":"word2","title":"word2"},
+							{"entry":"word3","title":"word3"}
+						]
+					}
+				]
+			},
+			{
+				"title":"第二章",
+				"entry":"topic2",
+				"content":[
+					{
+						"title":"第一节",
+						"entry":"section1",
+						"content":[
+							{"entry":"word1","title":"word1"},
+							{"entry":"word2","title":"word2"},
+							{"entry":"word3","title":"word3"}
+						]
+					},
+					{
+						"title":"第二节",
+						"entry":"section2",
+						"content":[
+							{"entry":"word1","title":"word1"},
+							{"entry":"word2","title":"word2"},
+							{"entry":"word3","title":"word3"}
+						]
+					}
+				]
+			}
+		]
+	}
+}
