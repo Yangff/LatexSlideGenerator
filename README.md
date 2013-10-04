@@ -94,3 +94,5 @@ json格式：
 +---./sample/topic2/section2/word3.tex
 ```
 使用的时候，使用命令`node xeslide sample.js`替换相关文件路径即可。
+
+PS:npm包怎么做？
