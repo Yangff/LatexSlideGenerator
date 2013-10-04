@@ -72,8 +72,8 @@ json格式：
 }
 ```
 会自动创建出如下的目录结构：
-
-> +./sample
+```
++./sample
 +-./sample/topic1
 +--./sample/topic1/section1
 +---./sample/topic1/section1/word1.tex
@@ -92,5 +92,5 @@ json格式：
 +---./sample/topic2/section2/word1.tex
 +---./sample/topic2/section2/word2.tex
 +---./sample/topic2/section2/word3.tex
-
+```
 使用的时候，使用命令`node xeslide sample.js`替换相关文件路径即可。
